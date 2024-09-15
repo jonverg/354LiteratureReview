@@ -29,7 +29,6 @@ In this literature review, I utilized GPT-4o to examine how CUDA (Compute Unifie
    Official documentation for the CUDA Toolkit, covering the CUDA programming model, GPU architecture, and deep learning libraries such as cuBLAS and cuDNN.  
    [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)
 
-3. **Kirk, D. B., & Hwu, W. W.** (2016). *Programming Massively Parallel Processors: A Hands-on Approach* (3rd ed.). Morgan Kaufmann.  
-   A practical guide to GPU programming with CUDA, covering both foundational concepts and practical implementations for optimizing parallel code in C/C++ for ML applications.  
-   [Find it on Amazon](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0128119861/)
-
+3. **Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., ... & Chintala, S.** (2019). *PyTorch: An Imperative Style, High-Performance Deep Learning Library*. NeurIPS 2019.  
+   This paper introduces PyTorch, a popular deep learning framework that combines Python and C++ with CUDA support for dynamic computation graphs and GPU acceleration.  
+   [PyTorch Paper (NeurIPS 2019)](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)
