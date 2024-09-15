@@ -18,3 +18,18 @@ In this literature review, I utilized GPT-4o to examine how CUDA (Compute Unifie
 4. What challenges arise when integrating CUDA-based C++ code with Python in deep learning frameworks?
 5. Who are the influential researchers who have left their mark on the field?
 6. What are some of the most influential research articles, books, software, and libraries related to CUDA integration with low-level and high-level languages in ML development?
+
+## References
+
+1. **Goodfellow, I., Bengio, Y., & Courville, A.** (2016). *Deep Learning*. MIT Press.  
+   A comprehensive textbook on deep learning fundamentals, including discussions on the importance of GPU acceleration in training large models.  
+   [Link to Online Book](https://www.deeplearningbook.org)
+
+2. **NVIDIA Corporation**. (2023). *CUDA Toolkit Documentation*. NVIDIA Developer.  
+   Official documentation for the CUDA Toolkit, covering the CUDA programming model, GPU architecture, and deep learning libraries such as cuBLAS and cuDNN.  
+   [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)
+
+3. **Kirk, D. B., & Hwu, W. W.** (2016). *Programming Massively Parallel Processors: A Hands-on Approach* (3rd ed.). Morgan Kaufmann.  
+   A practical guide to GPU programming with CUDA, covering both foundational concepts and practical implementations for optimizing parallel code in C/C++ for ML applications.  
+   [Find it on Amazon](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0128119861/)
+
