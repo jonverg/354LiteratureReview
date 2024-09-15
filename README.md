@@ -1,8 +1,8 @@
-# Literature Review: Integration of Low-Level Languages (C/C++) with High-Level Languages (Python) in LLM and ML Development
+# Integration of Low-Level Languages (C/C++) with High-Level Languages (Python) in LLM and ML Development
 
-Jonathan Vergonio\\
-CPSC-354: Programming Languages\\
-vergonio@chapman.edu
+Jonathan Vergonio  
+CPSC-354: Programming Languages  
+vergonio@chapman.edu  
 
 ## Introduction
 
