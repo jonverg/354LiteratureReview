@@ -8,7 +8,7 @@ vergonio@chapman.edu
 
 The rapid advancement of machine learning (ML) and large language models (LLMs) has significantly increased the demand for efficient computational frameworks capable of handling vast amounts of data and complex mathematical operations. CUDA (Compute Unified Device Architecture), developed by NVIDIA, has emerged as a pivotal technology in this context. While CUDA is primarily implemented using low-level languages such as C and C++ to maximize control over hardware and optimize performance, its integration with high-level languages like Python has also become crucial in making GPU acceleration more accessible and usable for developers and researchers.
 
-This literature review explores the evolution of CUDA and its role in integrating low-level and high-level programming languages to optimize ML and LLM development. It examines how this integration enhances performance, flexibility, and scalability by combining Python's ease of use with the efficiency of CUDA-accelerated C++ code for computationally intensive tasks. The review delves into the historical context, key developments, and subfields of programming languages that have contributed to CUDA integration. 
+This literature review utilizes ChatGPT-4o to explore the evolution of CUDA and its role in integrating low-level and high-level programming languages to optimize ML and LLM development. It examines how this integration enhances performance, flexibility, and scalability by combining Python's ease of use with the efficiency of CUDA-accelerated C++ code for computationally intensive tasks. The review delves into the historical context, key developments, and subfields of programming languages that have contributed to CUDA integration. 
 
 ## Questions Explored
 
@@ -40,6 +40,8 @@ This literature review explores the evolution of CUDA and its role in integratin
 5. **Nickolls, J., Buck, I., Garland, M., & Skadron, K.** (2008). *Scalable Parallel Programming with CUDA*. ACM Queue, 6(2), 40-53.  
    This paper provides a foundational overview of CUDA as a parallel programming model, discussing its scalability, performance characteristics, and applications across various domains.  
    [Scalable Parallel Programming with CUDA](https://dl.acm.org/doi/pdf/10.1145/1365490.1365500)
+
+6. **OpenAI**. (2024). *ChatGPT-4o Model*. OpenAI.  
 
 ## The Evolution of CUDA and its Role in Programming Language Integration
 
