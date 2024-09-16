@@ -94,11 +94,11 @@ Several subfields of programming languages have contributed to the integration o
 
 The integration of CUDA with C++ for core computational tasks provides several performance benefits:
 
-- *Optimized Kernel Execution:* CUDA allows for the development of highly optimized GPU kernels in C++ that perform specific operations (e.g., matrix multiplication, convolution) much faster than CPU-based implementations.
+- Optimized Kernel Execution: CUDA allows for the development of highly optimized GPU kernels in C++ that perform specific operations (e.g., matrix multiplication, convolution) much faster than CPU-based implementations.
 
-- *Efficient Memory Management:* C++ with CUDA provides fine-grained control over memory allocation, transfers, and synchronization, reducing bottlenecks and maximizing GPU utilization.
+- Efficient Memory Management: C++ with CUDA provides fine-grained control over memory allocation, transfers, and synchronization, reducing bottlenecks and maximizing GPU utilization.
 
-- *Data Parallelism and Scalability:* CUDA facilitates multi-GPU setups and supports data parallelism, model parallelism, and distributed training, enabling the scalable fine-tuning of LLMs.
+- Data Parallelism and Scalability: CUDA facilitates multi-GPU setups and supports data parallelism, model parallelism, and distributed training, enabling the scalable fine-tuning of LLMs.
 
 ### Why C++ is Ideal
 
