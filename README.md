@@ -35,11 +35,11 @@ This literature review explores the evolution of CUDA and its role in integratin
 
 4. **Klöckner, A., Pinto, N., Lee, Y., Catanzaro, B., Ivanov, P., & Fasih, A.** (2012). *PyCUDA and PyOpenCL: A Scripting-Based Approach to GPU Run-Time Code Generation*. Parallel Computing, 38(3), 157-174.  
    This paper discusses PyCUDA, a Python wrapper for the CUDA API, enabling GPU-accelerated code development without extensive C/C++ knowledge. It highlights the advantages of dynamic code generation and GPU utilization in Python.  
-   [PyCUDA Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167819111001631)
+   [PyCUDA Paper](https://arxiv.org/pdf/0911.3456)
 
 5. **Nickolls, J., Buck, I., Garland, M., & Skadron, K.** (2008). *Scalable Parallel Programming with CUDA*. ACM Queue, 6(2), 40-53.  
    This paper provides a foundational overview of CUDA as a parallel programming model, discussing its scalability, performance characteristics, and applications across various domains.  
-   [Scalable Parallel Programming with CUDA](https://dl.acm.org/doi/10.1145/1365490.1365500)
+   [Scalable Parallel Programming with CUDA](https://dl.acm.org/doi/pdf/10.1145/1365490.1365500)
 
 ## The Evolution of CUDA and its Role in Programming Language Integration
 
