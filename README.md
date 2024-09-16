@@ -82,13 +82,13 @@ CUDA is also extensively used in scientific computing and high-performance compu
 
 Several subfields of programming languages have contributed to the integration of CUDA with low-level and high-level languages:
 
-- *Parallel Computing:* The foundation of CUDA is rooted in parallel computing, which focuses on executing multiple computations simultaneously. This subfield has significantly influenced the development of CUDA and its ability to perform large-scale computations required for LLM and ML models.
+- Parallel Computing: The foundation of CUDA is rooted in parallel computing, which focuses on executing multiple computations simultaneously. This subfield has significantly influenced the development of CUDA and its ability to perform large-scale computations required for LLM and ML models.
 
-- *Compiler Design:* Effective integration of CUDA with Python involves compiling high-level Python code into efficient machine code that can run on GPUs. Compiler subfields have contributed by developing tools like Numba (a JIT compiler for Python) that allow Python functions to be compiled into CUDA code with minimal changes.
+- Compiler Design: Effective integration of CUDA with Python involves compiling high-level Python code into efficient machine code that can run on GPUs. Compiler subfields have contributed by developing tools like Numba (a JIT compiler for Python) that allow Python functions to be compiled into CUDA code with minimal changes.
 
-- *High-Performance Computing (HPC):* HPC focuses on maximizing computational efficiency, often through low-level optimizations. CUDA's use of C/C++ leverages HPC principles, allowing for fine-grained control over GPU resources to maximize throughput and minimize latency.
+- High-Performance Computing (HPC): HPC focuses on maximizing computational efficiency, often through low-level optimizations. CUDA's use of C/C++ leverages HPC principles, allowing for fine-grained control over GPU resources to maximize throughput and minimize latency.
 
-- *Language Interoperability:* The integration of CUDA with Python requires seamless interoperability between C/C++ (where CUDA is implemented) and Python. The development of libraries like PyBind11 and Cython has been essential in enabling this interoperability, allowing for easy communication between Python and C++ components.
+- Language Interoperability: The integration of CUDA with Python requires seamless interoperability between C/C++ (where CUDA is implemented) and Python. The development of libraries like PyBind11 and Cython has been essential in enabling this interoperability, allowing for easy communication between Python and C++ components.
 
 ## Performance Benefits of Using CUDA-Accelerated C++ with Python
 
