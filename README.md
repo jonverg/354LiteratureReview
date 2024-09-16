@@ -119,7 +119,6 @@ Python is known for its simplicity and readability, making it an ideal language 
 - Ian Goodfellow, Yann LeCun, and Geoffrey Hinton: Pioneers in deep learning who have emphasized the importance of GPU acceleration and CUDA for training large neural networks.
 - Chris Olah: Known for his work on interpretability and visualization in deep learning, highlighting the need for efficient GPU processing.
 
-### Influential Articles, Books, and Libraries
+### Influential Books and Libraries
 - Books: "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Discusses the importance of GPU acceleration in deep learning.
-- Research Papers: Articles on "High-Performance Computing in AI" and “GPU Programming with Python and C++” that explore CUDA’s impact on ML and LLM development.
 - Software and Libraries: PyTorch, TensorFlow, cuBLAS, cuDNN, PyCUDA, CuPy, and Numba. These tools provide critical support for integrating CUDA in ML development.
