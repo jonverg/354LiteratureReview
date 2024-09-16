@@ -21,27 +21,26 @@ This literature review utilizes ChatGPT-4o to explore the evolution of CUDA and 
 
 ## References
 
-1. **Goodfellow, I., Bengio, Y., & Courville, A.** (2016). *Deep Learning*. MIT Press.  
-   A comprehensive textbook on deep learning fundamentals, including discussions on the importance of GPU acceleration in training large models.  
-   [Link to Online Book](https://www.deeplearningbook.org)
 
-2. **NVIDIA Corporation**. (2023). *CUDA Toolkit Documentation*. NVIDIA Developer.  
-   Official documentation for the CUDA Toolkit, covering the CUDA programming model, GPU architecture, and deep learning libraries such as cuBLAS and cuDNN.  
-   [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)
-
-3. **Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., ... & Chintala, S.** (2019). *PyTorch: An Imperative Style, High-Performance Deep Learning Library*. NeurIPS 2019.  
-   This paper introduces PyTorch, a popular deep learning framework that combines Python and C++ with CUDA support for dynamic computation graphs and GPU acceleration.  
-   [PyTorch Paper (NeurIPS 2019)](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)
-
-4. **Klöckner, A., Pinto, N., Lee, Y., Catanzaro, B., Ivanov, P., & Fasih, A.** (2012). *PyCUDA and PyOpenCL: A Scripting-Based Approach to GPU Run-Time Code Generation*. Parallel Computing, 38(3), 157-174.  
-   This paper discusses PyCUDA, a Python wrapper for the CUDA API, enabling GPU-accelerated code development without extensive C/C++ knowledge. It highlights the advantages of dynamic code generation and GPU utilization in Python.  
-   [PyCUDA Paper](https://arxiv.org/pdf/0911.3456)
-
-5. **Nickolls, J., Buck, I., Garland, M., & Skadron, K.** (2008). *Scalable Parallel Programming with CUDA*. ACM Queue, 6(2), 40-53.  
+1. **Nickolls, J., Buck, I., Garland, M., & Skadron, K.** (2008). *Scalable Parallel Programming with CUDA*. ACM Queue, 6(2), 40-53.  
    This paper provides a foundational overview of CUDA as a parallel programming model, discussing its scalability, performance characteristics, and applications across various domains.  
    [Scalable Parallel Programming with CUDA](https://dl.acm.org/doi/pdf/10.1145/1365490.1365500)
 
-6. **OpenAI**. (2024). *ChatGPT-4o Model*. OpenAI.  
+2. **Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., ... & Chintala, S.** (2019). *PyTorch: An Imperative Style, High-Performance Deep Learning Library*. NeurIPS 2019.  
+   This paper introduces PyTorch, a popular deep learning framework that combines Python and C++ with CUDA support for dynamic computation graphs and GPU acceleration.  
+   [PyTorch Paper (NeurIPS 2019)](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)
+
+3. **Klöckner, A., Pinto, N., Lee, Y., Catanzaro, B., Ivanov, P., & Fasih, A.** (2012). *PyCUDA and PyOpenCL: A Scripting-Based Approach to GPU Run-Time Code Generation*. Parallel Computing, 38(3), 157-174.  
+   This paper discusses PyCUDA, a Python wrapper for the CUDA API, enabling GPU-accelerated code development without extensive C/C++ knowledge. It highlights the advantages of dynamic code generation and GPU utilization in Python.  
+   [PyCUDA Paper](https://arxiv.org/pdf/0911.3456)
+ 
+4. **Goodfellow, I., Bengio, Y., & Courville, A.** (2016). *Deep Learning*. MIT Press.  
+   A comprehensive textbook on deep learning fundamentals, including discussions on the importance of GPU acceleration in training large models.  
+   [Link to Online Book](https://www.deeplearningbook.org)
+
+5. **NVIDIA Corporation**. (2023). *CUDA Toolkit Documentation*. NVIDIA Developer.  
+   Official documentation for the CUDA Toolkit, covering the CUDA programming model, GPU architecture, and deep learning libraries such as cuBLAS and cuDNN.  
+   [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)
 
 ## The Evolution of CUDA and its Role in Programming Language Integration
 
