@@ -3,14 +3,13 @@
 Jonathan Vergonio  
 CPSC-354: Programming Languages  
 vergonio@chapman.edu
-LLM Tool utilized: GPT-4o  
 
 ## Introduction
 
-I have frequently encountered mentions of CUDA, particularly its compatibility with C and C++. This initiated my interest to explore CUDA further and understand its role in integrating low-level languages (such as C/C++) with high-level languages (such as Python) to optimize machine learning (ML) and large language model (LLM) development. 
+The rapid advancement of machine learning (ML) and large language models (LLMs) has significantly increased the demand for efficient computational frameworks capable of handling vast amounts of data and complex mathematical operations. CUDA (Compute Unified Device Architecture), developed by NVIDIA, has emerged as a pivotal technology in this context. Introduced in 2006, CUDA provides a parallel computing platform and programming model that utilizes the computational power of NVIDIA GPUs for general-purpose computing. While CUDA is primarily implemented using low-level languages such as C and C++ to maximize control over hardware and optimize performance, its integration with high-level languages like Python has also become crucial in making GPU acceleration more accessible and usable for developers and researchers.
 
-In this literature review, I utilized GPT-4o to examine how CUDA (Compute Unified Device Architecture) facilitates this integration, enhancing the performance, flexibility, and scalability of ML and LLM development. We delve into the historical context, key developments, relevant subfields of programming languages (PL), challenges and best practices, and highlight influential researchers and essential resources in the field.
- 
+This literature review explores the evolution of CUDA and its role in integrating low-level and high-level programming languages to optimize ML and LLM development. It examines how this integration enhances performance, flexibility, and scalability by combining Python's ease of use with the efficiency of CUDA-accelerated C++ code for computationally intensive tasks. The review delves into the historical context, key developments, and subfields of programming languages that have contributed to CUDA integration. 
+
 ## Questions Explored
 
 1. How does integrating CUDA with low-level languages (like C/C++) and high-level languages (like Python) improve the performance, flexibility, and scalability of machine learning and LLM development?
@@ -33,6 +32,14 @@ In this literature review, I utilized GPT-4o to examine how CUDA (Compute Unifie
 3. **Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., ... & Chintala, S.** (2019). *PyTorch: An Imperative Style, High-Performance Deep Learning Library*. NeurIPS 2019.  
    This paper introduces PyTorch, a popular deep learning framework that combines Python and C++ with CUDA support for dynamic computation graphs and GPU acceleration.  
    [PyTorch Paper (NeurIPS 2019)](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)
+
+4. **Klöckner, A., Pinto, N., Lee, Y., Catanzaro, B., Ivanov, P., & Fasih, A.** (2012). *PyCUDA and PyOpenCL: A Scripting-Based Approach to GPU Run-Time Code Generation*. Parallel Computing, 38(3), 157-174.  
+   This paper discusses PyCUDA, a Python wrapper for the CUDA API, enabling GPU-accelerated code development without extensive C/C++ knowledge. It highlights the advantages of dynamic code generation and GPU utilization in Python.  
+   [PyCUDA Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167819111001631)
+
+5. **Nickolls, J., Buck, I., Garland, M., & Skadron, K.** (2008). *Scalable Parallel Programming with CUDA*. ACM Queue, 6(2), 40-53.  
+   This paper provides a foundational overview of CUDA as a parallel programming model, discussing its scalability, performance characteristics, and applications across various domains.  
+   [Scalable Parallel Programming with CUDA](https://dl.acm.org/doi/10.1145/1365490.1365500)
 
 ## The Evolution of CUDA and its Role in Programming Language Integration
 
