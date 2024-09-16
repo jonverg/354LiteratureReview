@@ -113,7 +113,7 @@ Despite the benefits, several challenges arise when integrating CUDA-based C++ c
 
 Python is known for its simplicity and readability, making it an ideal language for rapid development and prototyping. Unlike C++, Python does not require explicit memory management or complex syntax, allowing developers to write code more quickly and with fewer errors. In the context of CUDA programming, Python provides high-level abstractions that simplify the use of GPU acceleration. Libraries like PyCUDA and CuPy wrap the CUDA API, allowing developers to perform GPU computations with Python code that looks and feels like familiar NumPy operations.
 
-## Influential Researchers and Resources
+## Further Resources: Influential Researchers and Supplemental Sources
 
 ### Influential Researchers
 
